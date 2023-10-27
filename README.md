@@ -11,4 +11,4 @@ You can access each assignment by navigating to the respective directory. Each d
 To get started with the assignments, simply clone this repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/Deepakbnivas/linux_lab)https://github.com/Deepakbnivas/linux_lab
+git clone https://github.com/Deepakbnivas/linux_lab)https://github.com/Deepakbnivas/linux_lab
