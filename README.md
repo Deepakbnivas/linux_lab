@@ -2,9 +2,6 @@
 
 This repository contains a collection of Linux lab assignments completed during the course. Each assignment is organized into its own directory for easy reference.
 
-## Directory Structure
-
-
 ## Usage
 
 You can access each assignment by navigating to the respective directory. Each directory may contain source code, documentation, or additional resources.
